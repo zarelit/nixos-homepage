@@ -64,7 +64,6 @@
           <div class="nav-collapse collapse">
             [% IF menu == 'nixos' %]
               <ul class="nav pull-left">
-                <li><a href="[%root%]nixos/about.html">About</a></li>
                 <li><a href="[%root%]nixos/download.html">Download</a></li>
                 <li><a href="[%root%]learn.html">Learn</a></li>
                 <li><a href="[%root%]nixos/packages.html">Packages</a></li>
@@ -79,7 +78,6 @@
                 -->
             [% ELSIF menu == 'nix' %]
               <ul class="nav pull-left">
-                <li><a href="[%root%]nix/about.html">About</a></li>
                 <li><a href="[%root%]nix/download.html">Download</a></li>
                 <li><a href="[%root%]learn.html">Learn</a></li>
               </ul>
