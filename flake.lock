@@ -1,7 +1,6 @@
 {
   "inputs": {
     "nix-pills": {
-      "flake": false,
       "info": {
         "lastModified": 1583819478,
         "narHash": "sha256-hXQv5HmU9rJ+LOQVvUjfN2jbn1TfUMhZu+SY8sub4XE="
@@ -39,14 +38,14 @@
     },
     "nixpkgsUnstable": {
       "info": {
-        "lastModified": 1584192800,
-        "narHash": "sha256-XlCflTP9upXzmPgH7lxX6HIdB2/lwcgZJFmTT9hYi1c="
+        "lastModified": 1584973599,
+        "narHash": "sha256-KogaDKiLNAjWcZjePtdpHjEdqZP0MHVMqs9LQjxESvE="
       },
       "inputs": {},
       "locked": {
         "owner": "NixOS",
         "repo": "nixpkgs",
-        "rev": "93144e0f4a5b21f561e4adda8a73d477d069b703",
+        "rev": "7d9e3877e15d172da9ff1d24a7a33a765ad50253",
         "type": "github"
       },
       "original": {
